@@ -1,0 +1,10 @@
+C:\Users\iko\Desktop\EmailSender\EmailSender\FooAndBar\bin\Debug\netcoreapp2.2\FooAndBar.deps.json
+C:\Users\iko\Desktop\EmailSender\EmailSender\FooAndBar\bin\Debug\netcoreapp2.2\FooAndBar.runtimeconfig.json
+C:\Users\iko\Desktop\EmailSender\EmailSender\FooAndBar\bin\Debug\netcoreapp2.2\FooAndBar.runtimeconfig.dev.json
+C:\Users\iko\Desktop\EmailSender\EmailSender\FooAndBar\bin\Debug\netcoreapp2.2\FooAndBar.dll
+C:\Users\iko\Desktop\EmailSender\EmailSender\FooAndBar\obj\Debug\netcoreapp2.2\FooAndBar.csproj.CoreCompileInputs.cache
+C:\Users\iko\Desktop\EmailSender\EmailSender\FooAndBar\obj\Debug\netcoreapp2.2\FooAndBar.AssemblyInfoInputs.cache
+C:\Users\iko\Desktop\EmailSender\EmailSender\FooAndBar\obj\Debug\netcoreapp2.2\FooAndBar.AssemblyInfo.cs
+C:\Users\iko\Desktop\EmailSender\EmailSender\FooAndBar\bin\Debug\netcoreapp2.2\FooAndBar.pdb
+C:\Users\iko\Desktop\EmailSender\EmailSender\FooAndBar\obj\Debug\netcoreapp2.2\FooAndBar.dll
+C:\Users\iko\Desktop\EmailSender\EmailSender\FooAndBar\obj\Debug\netcoreapp2.2\FooAndBar.pdb
